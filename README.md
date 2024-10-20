@@ -1,11 +1,6 @@
 # Connect four
 A game of connect four against AI.
 
-![image](https://github.com/gdsc-ipsacademy/Connect-Four-Game/assets/81830617/9ffb20cd-9c8e-40fd-9fb6-8942ffdb02a1)
-
-
-![image](https://github.com/gdsc-ipsacademy/Connect-Four-Game/assets/81830617/469ed5b2-7d2f-4d5f-93b9-31bc19134d24)
-
 
 # Directory structure
 - [variables.py](https://github.com/gdsc-ipsacademy/Connect-Four-Game/blob/main/src/variables.py) contains all the GLOBAL variables for the project so that they are easy to find and change if ever needed. Helps in writing clean code.
